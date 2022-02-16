@@ -13,6 +13,7 @@ O Repositório está organizado em 3 packages, sendo um para cada questão do de
 As questões mencionadas fazem parte de um documento disponibilizado pela Academia Capgemini e possui uma cópia na pasta Docs.
 
 Este desafio foi implementado por: Mauro José Falcão Pereira
+
 Eu sou um apaixonado por desenvolvimento mas que utilizei uma mesma linguagem de programação, Delphi, durante praticamente toda minha vida profissional.
 Hoje busco me qualificar e assimilar as linguagens que dominam o mercado de desenvolvimento de software. Atualmente trabalho com tecnologias Low Code como Outsystems e Mendix, mas buscando aprimorar meus conhecimentos em Java. Estou confiante de que esta oportunidade oferecida pela Capgemini será a minha inclusão definitiva neste universo do Java e todas as tecnologias que pairam ao seu redor.
 
