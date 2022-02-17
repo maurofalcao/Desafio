@@ -11,6 +11,7 @@ Ao Visual Studio Code foi adicionado o sequinte pacote de extensão para configu
 
 O Repositório está organizado em 3 packages, sendo um para cada questão do desafio.
 As questões mencionadas fazem parte de um documento disponibilizado pela Academia Capgemini e possui uma cópia na pasta Docs.
+Cada uma das questões tem seu próprio método Main que deverá ser executado para testar a solução.
 
 Este desafio foi implementado por: Mauro José Falcão Pereira
 
